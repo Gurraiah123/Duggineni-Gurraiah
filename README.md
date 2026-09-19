@@ -12,7 +12,7 @@ I’m a DevOps Engineer passionate about cloud computing, automation, CI/CD, and
 
 💻 Tech Stack & Skills
 
-🔄 CI/CD: Jenkins, ArgoCD
+🔄 CI/CD: [Jenkins, ArgoCD](https://camo.githubusercontent.com/5432508fb0405ca65051c4f50c147589fdf74d7370707b35dcc54594df027879/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465)
 
 📜 Infrastructure as Code: Terraform, Ansible
 
