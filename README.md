@@ -10,11 +10,17 @@ I’m a DevOps Engineer passionate about cloud computing, automation, CI/CD, and
 🌎 Always learning and optimizing!
 
 💻 Tech Stack & Skills
+
 🔄 CI/CD: JenkinsArgoCD
+
 📜 Infrastructure as Code:TerraformAnsible
+
 📦 Containerization & Orchestration:DockerKubernetesHelm
+
 📊 Monitoring & Logging: PrometheusGrafana
+
 📝 Scripting & Automation:Shell ScriptingPython
+
 Linux Maven Nagios CI/CD SonarQube Trivy ServiceNow Jira Git
 
 🚀 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨
